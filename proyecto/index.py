@@ -188,7 +188,7 @@ def guillotine(trys, maxTrys, dead):
         print()
         return
     steps = math.ceil((trys / maxTrys) * 7)
-    print(str(trys) + str(maxTrys) + str(steps))
+    
    
 
   
