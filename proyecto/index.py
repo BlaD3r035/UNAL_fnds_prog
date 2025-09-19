@@ -186,6 +186,7 @@ def guillotine(trys, maxTrys, dead):
         print("   |   ("+ colors["red"] + "." + colors["reset"] + ")   |")
         print("   |____"+ colors["red"] + "..(_)" + colors["reset"] + "|")
         print()
+        time.sleep(2)
         return
     steps = math.ceil((trys / maxTrys) * 7)
     
