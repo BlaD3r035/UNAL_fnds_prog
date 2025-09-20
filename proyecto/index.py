@@ -17,7 +17,7 @@ default_categories = [
     
     {
         "name":"nombres de mujeres",
-        "words":["camila","alejandra","piedad","socorro","sofia","marta","paulina","rafaela","brigitte","miranda"]
+        "words":["carol","alejandra","piedad","socorro","sofia","marta","paulina","rafaela","brigitte","miranda"] # el nombre mas importante 💕
     },
     
     {
